@@ -14,7 +14,6 @@ Config.useOxLibNotifications = true
 
 -- Mensagens
 Config.messages = {
-    no_knife = "Você precisa de algo cortante para fazer isso.",
     tire_slashed = "Pneu estourado com sucesso!",
     already_slashed = "Este pneu já está estourado."
 }
